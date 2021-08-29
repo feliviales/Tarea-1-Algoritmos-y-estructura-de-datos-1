@@ -35,3 +35,6 @@ public class Cliente {
     }
 
 }
+/*
+***Para iniciar cliente se debe iniciar primero el servidor y despues cliente***
+ */
